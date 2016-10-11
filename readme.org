@@ -1,0 +1,14 @@
+TypeScript Exporation
+
+* Installed
+** Global NPM
+*** typescript
+*** tslint - typescript linter, config in ~code/repos
+** EMACS
+*** typescript-mode -
+*** tide - https://github.com/ananthakumaran/tide
+*** company - http://company-mode.github.io/ (text completion framework)
+
+
+* LookInto
+*** ob-typescript
